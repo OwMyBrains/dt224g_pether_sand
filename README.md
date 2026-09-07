@@ -29,4 +29,6 @@
 
 - Pusha till github är att ett sätt att hantera ändringar i nya versioner av ett projekt medan Netlify är en plats där du publiserar själva hemsidan. Netlify läser uftast koden från github och laddar in nya ändringar till den publiserade hemsidan.
 
-Om du vill exkludera någon fil i projektet från versionshanteringen, hur gör du då?
+### Excludera filer/mappar
+
+- Du skapar en .gitignore fil innan du gör en commit där du skriver in vilka filer eller mappar som ska ignoreras när du gör en commit.
