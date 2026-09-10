@@ -9,8 +9,8 @@
 
 ## Länkar till publiserade sidor.
 
-- [Netlify]https://taupe-babka-477420.netlify.app/
-- [Render]https://dt224g-pether-sand-lab2.onrender.com
+- [Netlify](https://taupe-babka-477420.netlify.app/)
+- [Render](https://dt224g-pether-sand-lab2.onrender.com)
 
 ### Skillnaden mellan git add och git commit
 
